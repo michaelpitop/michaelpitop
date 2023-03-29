@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi! My name is Michael
 
+Im a Junior Fullstack Developer
+
+Im currently searching for a job either as a junior web developer 
 <!--
 **michaelpitop/michaelpitop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
