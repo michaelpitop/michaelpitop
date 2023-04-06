@@ -2,7 +2,9 @@
 ### Junior Web Developer Developer
 
 🔭 I’m currently working on my personal portfolio using React and Tailwind.CSS
+
 🌱 I’m currently learning C# and the .NET framework.
+
 📫 How to reach me: via <a href="https://www.linkedin.com/in/michaelpitop/">LinkedIn</a> or via <a href="mailto:michaaelpitop@outlook.com">email</a>
 <!--
 **michaelpitop/michaelpitop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
