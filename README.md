@@ -5,6 +5,8 @@
 
 🌱 I’m currently learning C# and the .NET framework.
 
+💬 You can see my CV <a href="https://michaelpitop.tiiny.site/">here</a>.
+
 📫 How to reach me: via <a href="https://www.linkedin.com/in/michaelpitop/">LinkedIn</a> or via <a href="mailto:michaaelpitop@outlook.com">email</a>
 <!--
 **michaelpitop/michaelpitop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
