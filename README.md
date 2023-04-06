@@ -1,5 +1,5 @@
 
-### Junior Web Developer Developer
+### Junior Web Developer 
 
 🔭 I’m currently working on my personal portfolio using React and Tailwind.CSS
 
