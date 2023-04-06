@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on my personal portfolio using React and Tailwind.CSS
 
-🌱 I’m currently learning C# and the .NET framework.
+🌱 I’m currently learning <a href="https://github.com/michaelpitop/csharp_apps">C#</a> and the .NET framework.
 
 💬 You can see my CV <a href="https://michaelpitop.tiiny.site/">here</a>.
 
