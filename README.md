@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning <a href="https://github.com/michaelpitop/csharp_apps">C#</a> and the .NET framework.
 
-💬 You can see my CV <a href="https://michaelpitop.tiiny.site/">here</a>.
+💬 You can see my CV <a href="https://docdro.id/7oCkhJg">here</a>.
 
 📫 How to reach me: via <a href="https://www.linkedin.com/in/michaelpitop/">LinkedIn</a> or via <a href="mailto:michaaelpitop@outlook.com">email</a>
 <!--
