@@ -1,7 +1,7 @@
 
 ### Junior Web Developer 
 
-🔭 ~~I’m currently working on my personal portfolio using React and Tailwind.CSS~~ You can visit my online portfolio <a href="https://react-portfolio-69024.web.app/">here</a>
+🔭 You can visit my online portfolio <a href="https://react-portfolio-69024.web.app/">here</a>
 
 🌱 I’m currently learning <a href="https://github.com/michaelpitop/csharp_apps">C#</a> and the .NET framework.
 
