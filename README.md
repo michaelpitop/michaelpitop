@@ -3,7 +3,7 @@
 
 🔭 You can visit my online portfolio <a href="https://react-portfolio-69024.web.app/">here</a>
 
-🌱 I’m currently learning <a href="https://github.com/michaelpitop/csharp_apps">C#</a> and the .NET framework.
+🌱 I’m currently learning <a href="https://github.com/michaelpitop/csharp_apps">C# and the .NET framework.</a> 
 
 💬 You can see my CV <a href="https://docdro.id/7oCkhJg">here</a>.
 
