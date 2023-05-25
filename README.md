@@ -3,9 +3,9 @@
 
 🔭 You can visit my online portfolio <a href="https://react-portfolio-69024.web.app/">here</a>
 
-🌱 I’m currently learning <a href="https://github.com/michaelpitop/csharp_apps">C# and the .NET framework.</a> 
+<!-- 🌱 I’m currently learning <a href="https://github.com/michaelpitop/csharp_apps">C# and the .NET framework.</a> -->
 
-💬 You can see my CV <a href="https://docdro.id/7oCkhJg">here</a>.
+💬 You can see my CV <a href="https://docdro.id/dIu5D9m">here</a>.
 
 📫 How to reach me: via <a href="https://www.linkedin.com/in/michaelpitop/">LinkedIn</a> or via <a href="mailto:michaaelpitop@outlook.com">email</a>
 <!--
