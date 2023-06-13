@@ -2,8 +2,8 @@
 ### Junior Web Developer 
 
 🔭 You can visit my online portfolio <a href="https://react-portfolio-69024.web.app/">here</a>
-
-🌱 I’m currently learning <a href="https://github.com/michaelpitop/php_apps">PHP.</a>
+<!---
+🌱 I’m currently learning <a href="https://github.com/michaelpitop/php_apps">PHP.</a> --->
 
 💬 You can see my CV <a href="https://docdro.id/dIu5D9m">here</a>.
 
