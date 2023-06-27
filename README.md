@@ -5,7 +5,7 @@
 <!---
 🌱 I’m currently learning <a href="https://github.com/michaelpitop/php_apps">PHP.</a> --->
 
-💬 You can see my CV <a href="https://docdro.id/dIu5D9m">here</a>.
+💬 You can see my CV <a href="https://docdro.id/keaDnlB">here</a>.
 
 📫 How to reach me: via <a href="https://www.linkedin.com/in/michaelpitop/">LinkedIn</a> or via <a href="mailto:michaaelpitop@outlook.com">email</a>
 <!--
